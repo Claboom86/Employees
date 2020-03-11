@@ -1,0 +1,33 @@
+.container {
+    display: inline-block;
+    height: 60px;
+}
+
+.id {
+    display: inline-block;
+    width: 200px;
+    height: 100%;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.name {
+    display: inline-block;
+    width: 400px;
+    height: 100%;
+    text-align: center;
+}
+
+.salary {
+    display: inline-block;
+    width: 350px;
+    height: 100%;
+    text-align: center;
+}
+
+.age {
+    display: inline-block;
+    width: 350px;
+    height: 100%;
+    text-align: center;
+}

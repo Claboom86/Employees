@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100vw;
+    background-color: #C1DAFF;
+}
+
+.header {
+    display: inline-block;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.id {
+    display: inline-block;
+    width: 200px;
+    height: 100%;
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 30px;
+    text-align: center;
+    border-bottom: solid 1px black;
+}
+
+.name {
+    display: inline-block;
+    width: 400px;
+    height: 100%;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    border-bottom: solid 1px black;
+}
+
+.salary {
+    display: inline-block;
+    width: 350px;
+    height: 100%;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    border-bottom: solid 1px black;
+}
+
+.age {
+    display: inline-block;
+    width: 350px;
+    height: 100%;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    border-bottom: solid 1px black;
+}
